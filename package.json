@@ -1,0 +1,20 @@
+{
+  "name": "layer-set-blog",
+  "version": "1.0.0",
+  "description": "layer结合nodeJS，mongoDB，pug，模仿layer简易社区",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lskeng/layer-set-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lskeng/layer-set-blog/issues"
+  },
+  "homepage": "https://github.com/lskeng/layer-set-blog#readme"
+}
